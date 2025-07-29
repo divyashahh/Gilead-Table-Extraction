@@ -1,0 +1,329 @@
+%PDF-1.4
+1 0 obj
+<<
+/Creator (gliu7)
+/CreationDate (D:2024041209024400)
+/Producer (%TXT2PDF Version v4.19.01 at Gilead Sciences, Inc.)
+/Title (PDF Conversion of file l-lbtox-mark.out)
+>>
+endobj
+2 0 obj << /Type /Catalog /Pages 6 0 R /Outlines 3 0 R >> endobj
+3 0 obj << /Type /Outlines /Count 0 >> endobj
+4 0 obj << /Type /Font /Subtype /Type1 /Name /F1
+/BaseFont /CourierNew,Bold /Encoding /WinAnsiEncoding >> endobj
+5 0 obj [ /PDF /Text ] endobj
+6 0 obj << /Type /Pages /Count 5 /Kids [
+7 0 R
+9 0 R
+11 0 R
+13 0 R
+15 0 R
+] >> endobj
+7 0 obj << /Type /Page /Parent 6 0 R /Resources
+<< /Font << /F1 4 0 R >> /ProcSet 5 0 R >>
+/MediaBox [ 0 0 792 612 ] /Contents 8 0 R >> endobj
+8 0 obj << /Length 5454 >>
+stream
+BT /F1 7 Tf 10 TL 72 540 Td
+(                                                                                                                                 Gilead Sciences, Inc.)'
+(                                                                                                       Study GS-US-621-6289 \(Phase 2 Week 24 Analysis\))'
+(                                        Listing 16.2.8.1.7: Treatment-Emergent Marked Laboratory Abnormalities)'
+(                                                             All Randomized Analysis Set)'
+( )'
+(______________________________________________________________________________________________________________________________________________________)'
+( )'
+(                                                                                                                                               Toxi-)'
+(Lab          Test                           Date of Collection Time                 Analysis     Lab                      Normal       Fasting city)'
+(Type         Name                           \(Study Day\)        \(hh:mm\)  Visit       Visit        Result       Unit        Range        Status  Flag)'
+(______________________________________________________________________________________________________________________________________________________)'
+( )'
+(Participant ID = 00031-10072    Treatment = BIC 75 mg plus LEN 50 mg   Age/Sex/Race/Ethnicity = 70/M/WH/H)'
+(First Dose = 2022-12-05    Last Dose \(Study Day\) =  Ongoing)'
+( )'
+(Chemistry    Serum Glucose \(Nonfasting\)     2023-05-25 \(172\)   10:15    Unscheduled Week 24      251 \(H\)      mg/dL       70 - 100       No    G3 *^#)'
+( )'
+(Participant ID = 00407-10018    Treatment = BIC 75 mg plus LEN 25 mg   Age/Sex/Race/Ethnicity = 62/M/WH/H)'
+(First Dose = 2022-10-12    Last Dose \(Study Day\) =  Ongoing)'
+( )'
+(Chemistry    Serum Glucose \(Nonfasting\)     2022-09-15 \(-27\)   14:11    Screening   Baseline     72           mg/dL       70 - 100       No    G0)'
+(                                            2022-11-07 \(27\)     8:04    Week 4      Week 4       295 \(H\)      mg/dL       70 - 100       No    G3 *^#)'
+(                                            2022-11-28 \(48\)     8:24    Unscheduled Week 4       149 \(H\)      mg/dL       70 - 100       No    G1  ^)'
+(                                            2022-12-09 \(59\)     9:11    Unscheduled Week 12      153 \(H\)      mg/dL       70 - 100       No    G1  ^)'
+(Urinalysis   Urine Glucose                  2022-09-15 \(-27\)   14:11    Screening   Baseline     Trace \(H\)                NA             No    G1)'
+(                                            2022-10-12 \(1\)      8:48    Day 1       Baseline     Normal                   NA             Yes   G0)'
+(                                            2022-11-07 \(27\)     8:04    Week 4      Week 4       +4 \(H\)                   NA             No    G3 *^#)'
+(                                            2022-11-28 \(48\)     8:24    Unscheduled Week 4       Normal                   NA             No    G0)'
+(                                            2022-12-09 \(59\)     9:11    Unscheduled Week 12      Normal                   NA             No    G0)'
+(                                            2023-01-04 \(85\)     8:50    Week 12     Week 12      Normal                   NA             Yes   G0)'
+(                                            2023-03-28 \(168\)    9:02    Week 24     Week 24      +3 \(H\)                   NA             Yes   G3 *^#)'
+(                                            2023-06-21 \(253\)   11:13    Week 36     Week 36      Normal                   NA             Yes   G0)'
+( )'
+(Participant ID = 00991-10032    Treatment = SBR                        Age/Sex/Race/Ethnicity = 54/M/WH/NH)'
+(First Dose = 2022-10-26    Last Dose \(Study Day\) =  Ongoing)'
+( )'
+(Urinalysis   Urine Glucose                  2022-10-03 \(-23\)    9:55    Screening   Baseline     +1 \(H\)                   NA             Yes   G1)'
+(______________________________________________________________________________________________________________________________________________________)'
+(AS = Asian; BL = Black; F = Female; M = Male; NA = Not Available; \(N\)H = \(Not\) Hispanic; NP = Not Permitted; OT = Other; SBR = stable baseline)'
+(regimen; WH = White. GX = Grade X; H = high; L = low. Severity grades were defined by the Division of AIDS \(DAIDS\) Toxicity Grading Scale, Version)'
+(2.1. Day was the number of study days relative to the date of study Day 1. $ Imputed last dose date when completely or partially missing.)'
+(A treatment-emergent marked laboratory abnormality was defined as an increase of at least 3 toxicity grades from baseline at any postbaseline time)'
+(point, up to and including the last dose date plus 60 days in BIC+LEN groups \(or plus 30 days in SBR group\).)'
+(The "Toxicity Flag" includes the toxicity grade and the abnormal characterization, denoted by the following symbols:)'
+(^=Treatment-emergent laboratory abnormality;#=Treatment-emergent marked laboratory abnormality;*=Maximum postbaseline toxicity grade for a given test.)'
+( )'
+(Data Extracted: CRF Data: 22AUG2023, Lab Data: 22AUG2023, PK Data: 22AUG2023)'
+(Source: .../wk_24_p2/version2/prog/l-lbtox.sas v9.4  Output file: l-lbtox-mark.pdf 12APR2024: 9:02                                         Page 1 of 5)'
+ET
+endstream
+endobj
+9 0 obj << /Type /Page /Parent 6 0 R /Resources
+<< /Font << /F1 4 0 R >> /ProcSet 5 0 R >>
+/MediaBox [ 0 0 792 612 ] /Contents 10 0 R >> endobj
+10 0 obj << /Length 5723 >>
+stream
+BT /F1 7 Tf 10 TL 72 540 Td
+(                                                                                                                                 Gilead Sciences, Inc.)'
+(                                                                                                       Study GS-US-621-6289 \(Phase 2 Week 24 Analysis\))'
+(                                        Listing 16.2.8.1.7: Treatment-Emergent Marked Laboratory Abnormalities)'
+(                                                             All Randomized Analysis Set)'
+( )'
+(______________________________________________________________________________________________________________________________________________________)'
+( )'
+(                                                                                                                                               Toxi-)'
+(Lab          Test                           Date of Collection Time                 Analysis     Lab                      Normal       Fasting city)'
+(Type         Name                           \(Study Day\)        \(hh:mm\)  Visit       Visit        Result       Unit        Range        Status  Flag)'
+(______________________________________________________________________________________________________________________________________________________)'
+( )'
+(Urinalysis   Urine Glucose                  2022-10-26 \(1\)      8:05    Day 1       Baseline     Normal                   NA             Yes   G0)'
+(                                            2022-11-21 \(27\)     9:06    Week 4      Week 4       +3 \(H\)                   NA             No    G3 *^#)'
+(                                            2022-11-28 \(34\)     8:40    Unscheduled Week 4       Normal                   NA             No    G0)'
+(                                            2023-01-18 \(85\)     7:48    Week 12     Week 12      Normal                   NA             Yes   G0)'
+(                                            2023-04-12 \(169\)    7:58    Week 24     Week 24      Normal                   NA             Yes   G0)'
+(                                            2023-07-05 \(253\)    7:55    Week 36     Week 36      +1 \(H\)                   NA             Yes   G1  ^)'
+( )'
+(Participant ID = 01598-10015    Treatment = BIC 75 mg plus LEN 50 mg   Age/Sex/Race/Ethnicity = 66/M/WH/H)'
+(First Dose = 2022-10-11    Last Dose \(Study Day\) =  Ongoing)'
+( )'
+(Urinalysis   Urine Glucose                  2022-09-08 \(-33\)   10:10    Screening   Baseline     Normal                   NA             Yes   G0)'
+(                                            2022-10-11 \(1\)      9:00    Day 1       Baseline     Normal                   NA             Yes   G0)'
+(                                            2022-11-08 \(29\)     9:00    Week 4      Week 4       +4 \(H\)                   NA             Yes   G3 *^#)'
+(                                            2023-01-03 \(85\)     9:12    Week 12     Week 12      +4 \(H\)                   NA             Yes   G3 *^#)'
+(                                            2023-03-30 \(171\)    9:30    Week 24     Week 24      +4 \(H\)                   NA             Yes   G3 *^#)'
+(                                            2023-06-20 \(253\)    9:15    Week 36     Week 36      +4 \(H\)                   NA             Yes   G3 *^#)'
+( )'
+(Participant ID = 01966-10022    Treatment = BIC 75 mg plus LEN 50 mg   Age/Sex/Race/Ethnicity = 61/M/WH/NH)'
+(First Dose = 2022-10-17    Last Dose \(Study Day\) =  Ongoing)'
+( )'
+(Chemistry    Lipase                         2022-09-15 \(-32\)    9:00    Screening   Baseline     202 \(H\)      U/L         0 - 120        Yes   G2)'
+(                                            2022-10-17 \(1\)      8:31    Day 1       Baseline     71           U/L         0 - 120        Yes   G0)'
+(                                            2022-11-15 \(30\)     8:42    Week 4      Week 4       75           U/L         0 - 120        Yes   G0)'
+(                                            2023-01-10 \(86\)     8:25    Week 12     Week 12      51           U/L         0 - 120        Yes   G0)'
+(                                            2023-04-10 \(176\)    8:40    Week 24     Week 24      75           U/L         0 - 120        Yes   G0)'
+(______________________________________________________________________________________________________________________________________________________)'
+(AS = Asian; BL = Black; F = Female; M = Male; NA = Not Available; \(N\)H = \(Not\) Hispanic; NP = Not Permitted; OT = Other; SBR = stable baseline)'
+(regimen; WH = White. GX = Grade X; H = high; L = low. Severity grades were defined by the Division of AIDS \(DAIDS\) Toxicity Grading Scale, Version)'
+(2.1. Day was the number of study days relative to the date of study Day 1. $ Imputed last dose date when completely or partially missing.)'
+(A treatment-emergent marked laboratory abnormality was defined as an increase of at least 3 toxicity grades from baseline at any postbaseline time)'
+(point, up to and including the last dose date plus 60 days in BIC+LEN groups \(or plus 30 days in SBR group\).)'
+(The "Toxicity Flag" includes the toxicity grade and the abnormal characterization, denoted by the following symbols:)'
+(^=Treatment-emergent laboratory abnormality;#=Treatment-emergent marked laboratory abnormality;*=Maximum postbaseline toxicity grade for a given test.)'
+( )'
+(Data Extracted: CRF Data: 22AUG2023, Lab Data: 22AUG2023, PK Data: 22AUG2023)'
+(Source: .../wk_24_p2/version2/prog/l-lbtox.sas v9.4  Output file: l-lbtox-mark.pdf 12APR2024: 9:02                                         Page 2 of 5)'
+ET
+endstream
+endobj
+11 0 obj << /Type /Page /Parent 6 0 R /Resources
+<< /Font << /F1 4 0 R >> /ProcSet 5 0 R >>
+/MediaBox [ 0 0 792 612 ] /Contents 12 0 R >> endobj
+12 0 obj << /Length 5299 >>
+stream
+BT /F1 7 Tf 10 TL 72 540 Td
+(                                                                                                                                 Gilead Sciences, Inc.)'
+(                                                                                                       Study GS-US-621-6289 \(Phase 2 Week 24 Analysis\))'
+(                                        Listing 16.2.8.1.7: Treatment-Emergent Marked Laboratory Abnormalities)'
+(                                                             All Randomized Analysis Set)'
+( )'
+(______________________________________________________________________________________________________________________________________________________)'
+( )'
+(                                                                                                                                               Toxi-)'
+(Lab          Test                           Date of Collection Time                 Analysis     Lab                      Normal       Fasting city)'
+(Type         Name                           \(Study Day\)        \(hh:mm\)  Visit       Visit        Result       Unit        Range        Status  Flag)'
+(______________________________________________________________________________________________________________________________________________________)'
+( )'
+(Chemistry    Lipase                         2023-06-26 \(253\)    8:40    Week 36     Week 36      420 \(H\)      U/L         0 - 120        Yes   G3 *^#)'
+( )'
+(Participant ID = 02058-10029    Treatment = BIC 75 mg plus LEN 25 mg   Age/Sex/Race/Ethnicity = 59/M/WH/NH)'
+(First Dose = 2022-10-24    Last Dose \(Study Day\) =  Ongoing)'
+( )'
+(Chemistry    Lipase                         2022-09-28 \(-26\)   14:49    Screening   Baseline     165 \(H\)      U/L         0 - 100        No    G2)'
+(                                            2022-10-24 \(1\)      9:49    Day 1       Baseline     78           U/L         0 - 100        No    G0)'
+(                                            2022-11-15 \(23\)     8:55    Week 4      Week 4       173 \(H\)      U/L         0 - 100        Yes   G2  ^)'
+(                                            2023-01-16 \(85\)     8:56    Week 12     Week 12      364 \(H\)      U/L         0 - 100        Yes   G3 *^#)'
+(                                            2023-04-04 \(163\)    9:42    Week 24     Week 24      78           U/L         0 - 100        Yes   G0)'
+(                                            2023-06-27 \(247\)    8:30    Week 36     Week 36      74           U/L         0 - 100        Yes   G0)'
+( )'
+(Participant ID = 02106-10009    Treatment = BIC 75 mg plus LEN 50 mg   Age/Sex/Race/Ethnicity = 64/F/BL/NH)'
+(First Dose = 2022-09-29    Last Dose \(Study Day\) =  Ongoing)'
+( )'
+(Urinalysis   Urine Glucose                  2022-09-14 \(-15\)   11:48    Screening   Baseline     Normal                   NA             No    G0)'
+(                                            2022-09-29 \(1\)     10:08    Day 1       Baseline     Normal                   NA             Yes   G0)'
+(                                            2022-10-27 \(29\)     9:07    Week 4      Week 4       Normal                   NA             Yes   G0)'
+(                                            2022-12-19 \(82\)    11:24    Week 12     Week 12      Normal                   NA             Yes   G0)'
+(                                            2023-03-13 \(166\)   10:35    Week 24     Week 24      +3 \(H\)                   NA             Yes   G3 *^#)'
+(                                            2023-06-12 \(257\)   10:50    Week 36     Week 36      +4 \(H\)                   NA             Yes   G3 *^#)'
+( )'
+(Participant ID = 02728-10065    Treatment = BIC 75 mg plus LEN 25 mg   Age/Sex/Race/Ethnicity = 58/M/AS/NH)'
+(First Dose = 2022-11-18    Last Dose \(Study Day\) =  Ongoing)'
+( )'
+(______________________________________________________________________________________________________________________________________________________)'
+(AS = Asian; BL = Black; F = Female; M = Male; NA = Not Available; \(N\)H = \(Not\) Hispanic; NP = Not Permitted; OT = Other; SBR = stable baseline)'
+(regimen; WH = White. GX = Grade X; H = high; L = low. Severity grades were defined by the Division of AIDS \(DAIDS\) Toxicity Grading Scale, Version)'
+(2.1. Day was the number of study days relative to the date of study Day 1. $ Imputed last dose date when completely or partially missing.)'
+(A treatment-emergent marked laboratory abnormality was defined as an increase of at least 3 toxicity grades from baseline at any postbaseline time)'
+(point, up to and including the last dose date plus 60 days in BIC+LEN groups \(or plus 30 days in SBR group\).)'
+(The "Toxicity Flag" includes the toxicity grade and the abnormal characterization, denoted by the following symbols:)'
+(^=Treatment-emergent laboratory abnormality;#=Treatment-emergent marked laboratory abnormality;*=Maximum postbaseline toxicity grade for a given test.)'
+( )'
+(Data Extracted: CRF Data: 22AUG2023, Lab Data: 22AUG2023, PK Data: 22AUG2023)'
+(Source: .../wk_24_p2/version2/prog/l-lbtox.sas v9.4  Output file: l-lbtox-mark.pdf 12APR2024: 9:02                                         Page 3 of 5)'
+ET
+endstream
+endobj
+13 0 obj << /Type /Page /Parent 6 0 R /Resources
+<< /Font << /F1 4 0 R >> /ProcSet 5 0 R >>
+/MediaBox [ 0 0 792 612 ] /Contents 14 0 R >> endobj
+14 0 obj << /Length 5328 >>
+stream
+BT /F1 7 Tf 10 TL 72 540 Td
+(                                                                                                                                 Gilead Sciences, Inc.)'
+(                                                                                                       Study GS-US-621-6289 \(Phase 2 Week 24 Analysis\))'
+(                                        Listing 16.2.8.1.7: Treatment-Emergent Marked Laboratory Abnormalities)'
+(                                                             All Randomized Analysis Set)'
+( )'
+(______________________________________________________________________________________________________________________________________________________)'
+( )'
+(                                                                                                                                               Toxi-)'
+(Lab          Test                           Date of Collection Time                 Analysis     Lab                      Normal       Fasting city)'
+(Type         Name                           \(Study Day\)        \(hh:mm\)  Visit       Visit        Result       Unit        Range        Status  Flag)'
+(______________________________________________________________________________________________________________________________________________________)'
+( )'
+(Chemistry    Serum Glucose \(Nonfasting\)     2023-05-04 \(168\)   10:00    Unscheduled Week 24      255 \(H\)      mg/dL       70 - 100       No    G3 *^#)'
+( )'
+(Participant ID = 04170-10110    Treatment = SBR                        Age/Sex/Race/Ethnicity = 65/M/WH/NH)'
+(First Dose = 2023-01-11    Last Dose \(Study Day\) =  Ongoing)'
+( )'
+(Chemistry    Creatinine Clearance           2022-11-29 \(-43\)   10:40    Screening   Baseline     87.6         mL/min      85 - 125       Yes   G2)'
+(                                            2023-01-11 \(1\)     11:35    Day 1       Baseline     103.0        mL/min      85 - 125       Yes   G0)'
+(                                            2023-02-09 \(30\)    10:10    Week 4      Week 4       80.6 \(L\)     mL/min      85 - 125       Yes   G2  ^)'
+(                                            2023-04-06 \(86\)    15:50    Week 12     Week 12      87.6         mL/min      85 - 125       Yes   G2  ^)'
+(                                            2023-06-29 \(170\)   15:10    Week 24     Week 24      71.4 \(L\)     mL/min      85 - 125       Yes   G3 *^#)'
+( )'
+(Participant ID = 25207-10043    Treatment = BIC 75 mg plus LEN 50 mg   Age/Sex/Race/Ethnicity = 72/M/WH/NP)'
+(First Dose = 2022-11-03    Last Dose \(Study Day\) =  Ongoing)'
+( )'
+(Urinalysis   Urine Glucose                  2022-10-31 \(-3\)    11:00    Screening   Baseline     Trace \(H\)                NA             Yes   G1)'
+(                                            2022-11-03 \(1\)     10:25    Day 1       Baseline     Normal                   NA             Yes   G0)'
+(                                            2022-12-01 \(29\)    10:30    Week 4      Week 4       +4 \(H\)                   NA             No    G3 *^#)'
+(                                            2023-01-26 \(85\)     7:00    Week 12     Week 12      +4 \(H\)                   NA             Yes   G3 *^#)'
+(                                            2023-04-21 \(170\)    8:45    Week 24     Week 24      +4 \(H\)                   NA             Yes   G3 *^#)'
+(                                            2023-07-17 \(257\)   11:00    Week 36     Week 36      +4 \(H\)                   NA             Yes   G3 *^#)'
+( )'
+(Participant ID = 25207-10105    Treatment = BIC 75 mg plus LEN 50 mg   Age/Sex/Race/Ethnicity = 62/M/WH/NH)'
+(First Dose = 2023-01-09    Last Dose \(Study Day\) = 2023-05-02 \(114\))'
+( )'
+(Urinalysis   Urine Glucose                  2022-12-08 \(-32\)   13:20    Screening   Baseline     +3 \(H\)                   NA             Yes   G3)'
+(______________________________________________________________________________________________________________________________________________________)'
+(AS = Asian; BL = Black; F = Female; M = Male; NA = Not Available; \(N\)H = \(Not\) Hispanic; NP = Not Permitted; OT = Other; SBR = stable baseline)'
+(regimen; WH = White. GX = Grade X; H = high; L = low. Severity grades were defined by the Division of AIDS \(DAIDS\) Toxicity Grading Scale, Version)'
+(2.1. Day was the number of study days relative to the date of study Day 1. $ Imputed last dose date when completely or partially missing.)'
+(A treatment-emergent marked laboratory abnormality was defined as an increase of at least 3 toxicity grades from baseline at any postbaseline time)'
+(point, up to and including the last dose date plus 60 days in BIC+LEN groups \(or plus 30 days in SBR group\).)'
+(The "Toxicity Flag" includes the toxicity grade and the abnormal characterization, denoted by the following symbols:)'
+(^=Treatment-emergent laboratory abnormality;#=Treatment-emergent marked laboratory abnormality;*=Maximum postbaseline toxicity grade for a given test.)'
+( )'
+(Data Extracted: CRF Data: 22AUG2023, Lab Data: 22AUG2023, PK Data: 22AUG2023)'
+(Source: .../wk_24_p2/version2/prog/l-lbtox.sas v9.4  Output file: l-lbtox-mark.pdf 12APR2024: 9:02                                         Page 4 of 5)'
+ET
+endstream
+endobj
+15 0 obj << /Type /Page /Parent 6 0 R /Resources
+<< /Font << /F1 4 0 R >> /ProcSet 5 0 R >>
+/MediaBox [ 0 0 792 612 ] /Contents 16 0 R >> endobj
+16 0 obj << /Length 3946 >>
+stream
+BT /F1 7 Tf 10 TL 72 540 Td
+(                                                                                                                                 Gilead Sciences, Inc.)'
+(                                                                                                       Study GS-US-621-6289 \(Phase 2 Week 24 Analysis\))'
+(                                        Listing 16.2.8.1.7: Treatment-Emergent Marked Laboratory Abnormalities)'
+(                                                             All Randomized Analysis Set)'
+( )'
+(______________________________________________________________________________________________________________________________________________________)'
+( )'
+(                                                                                                                                               Toxi-)'
+(Lab          Test                           Date of Collection Time                 Analysis     Lab                      Normal       Fasting city)'
+(Type         Name                           \(Study Day\)        \(hh:mm\)  Visit       Visit        Result       Unit        Range        Status  Flag)'
+(______________________________________________________________________________________________________________________________________________________)'
+( )'
+(Urinalysis   Urine Glucose                  2023-01-09 \(1\)      8:30    Day 1       Baseline     Normal                   NA             Yes   G0)'
+(                                            2023-02-07 \(30\)     9:45    Week 4      Week 4       +3 \(H\)                   NA             Yes   G3 *^#)'
+(                                            2023-04-04 \(86\)    10:15    Week 12     Week 12      +2 \(H\)                   NA             Yes   G2  ^)'
+(                                            2023-05-04 \(116\)    9:15    ESDD        Week 12      +4 \(H\)                   NA             Yes   G3 *^#)'
+( )'
+(Participant ID = 25508-10083    Treatment = BIC 75 mg plus LEN 25 mg   Age/Sex/Race/Ethnicity = 53/F/WH/NH)'
+(First Dose = 2022-12-14    Last Dose \(Study Day\) =  Ongoing)'
+( )'
+(Chemistry    Serum Glucose \(Nonfasting\)     2023-01-11 \(29\)    10:31    Week 4      Week 4       275 \(H\)      mg/dL       70 - 100       No    G3 *^#)'
+(                                            2023-03-07 \(84\)    10:15    Week 12     Week 12      160 \(H\)      mg/dL       70 - 100       No    G1  ^)'
+( )'
+( )'
+( )'
+( )'
+( )'
+( )'
+( )'
+( )'
+( )'
+( )'
+( )'
+( )'
+( )'
+( )'
+( )'
+(______________________________________________________________________________________________________________________________________________________)'
+(AS = Asian; BL = Black; F = Female; M = Male; NA = Not Available; \(N\)H = \(Not\) Hispanic; NP = Not Permitted; OT = Other; SBR = stable baseline)'
+(regimen; WH = White. GX = Grade X; H = high; L = low. Severity grades were defined by the Division of AIDS \(DAIDS\) Toxicity Grading Scale, Version)'
+(2.1. Day was the number of study days relative to the date of study Day 1. $ Imputed last dose date when completely or partially missing.)'
+(A treatment-emergent marked laboratory abnormality was defined as an increase of at least 3 toxicity grades from baseline at any postbaseline time)'
+(point, up to and including the last dose date plus 60 days in BIC+LEN groups \(or plus 30 days in SBR group\).)'
+(The "Toxicity Flag" includes the toxicity grade and the abnormal characterization, denoted by the following symbols:)'
+(^=Treatment-emergent laboratory abnormality;#=Treatment-emergent marked laboratory abnormality;*=Maximum postbaseline toxicity grade for a given test.)'
+( )'
+(Data Extracted: CRF Data: 22AUG2023, Lab Data: 22AUG2023, PK Data: 22AUG2023)'
+(Source: .../wk_24_p2/version2/prog/l-lbtox.sas v9.4  Output file: l-lbtox-mark.pdf 12APR2024: 9:02                                         Page 5 of 5)'
+ET
+endstream
+endobj
+xref
+0 17
+0000000000 65535 f
+0000000010 00000 n
+0000000203 00000 n
+0000000269 00000 n
+0000000316 00000 n
+0000000431 00000 n
+0000000462 00000 n
+0000000555 00000 n
+0000000701 00000 n
+0000006212 00000 n
+0000006359 00000 n
+0000012140 00000 n
+0000012288 00000 n
+0000017645 00000 n
+0000017793 00000 n
+0000023179 00000 n
+0000023327 00000 n
+trailer << /Size 17 /Info 1 0 R /Root 2 0 R >>
+startxref
+27331
+%%EOF

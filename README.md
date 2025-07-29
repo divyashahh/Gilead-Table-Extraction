@@ -1,55 +1,60 @@
-# Table data extractor into CSV from PDF of scanned images
-This is a basic but usable Example of python script that allows to convert a pdf of scanned documents (images), 
-extract tables from each pdf page using image processing,
-and using OCR extract the table data into into one CSV file, while keeping correct table structure.
+# 📄 Table Extraction Pipeline
 
-This code has quite a bit assumptions (the table is largest object in the pages),
-but it can be useful to convert printed excel tables back into digital copy
+This project automates table extraction from both **scanned image-based PDFs** and **digital text PDFs**, converting structured content into clean CSV files.
 
+## ✅ Features
 
-### Prerequisites
+- 🔍 Automatically detects if the PDF is scanned or digital
+- 📦 Extracts tables only — ignores headers and body paragraphs (scanned flow)
+- 🧠 Uses PyMuPDF (`fitz`) for PDF rendering (no Poppler needed)
+- 🖼️ Applies OpenCV-based table detection for scanned pages
+- 🗣️ Runs Tesseract OCR on cropped table cells
+- 🧹 Cleans noisy output with filtering and post-processing
 
-install the following Packages (versions the script was developed on)
+---
 
-* python 3.6 
-* tesseract-ocr 4.0.0
-* opencv 3.4.4
-* pip requirements.txt
+## 🧠 How It Works
 
-usage:
+### Scanned PDFs:
+- Pages are rendered into high-res grayscale images using PyMuPDF
+- Table boundaries are detected via OpenCV (`cv2.findContours`, kernel filters)
+- Each table cell is extracted, cleaned, and passed to Tesseract OCR
+- Output is written to:  
+  `outputs/<filename>_scanned.csv`
+
+### Digital PDFs:
+- Currently uses PyMuPDF to extract full-page text
+- (Optional) Can be enhanced with block-level heuristics for table-only filtering
+- Output is written to:  
+  `outputs/<filename>_digital.csv`
+
+---
+
+## 🚀 How to Run
+
+Make sure your input PDF (e.g. `test.pdf`) is inside the `inputs/` folder. Then run:
+
+```bash
+python hybrid_runner.py -p inputs/test.pdf -o outputs
+
 ```
-python pdf-to-csv-cv.py -p test.pdf
+
+The script auto-selects the proper extraction path based on whether the input is scanned or digital.
+
+---
+
+## ⚙️ Dependencies
+
+This pipeline is free from system-level binaries like Poppler — just install dependencies via pip:
+
+```bash
+pip install opencv-python pytesseract numpy PyMuPDF imutils
 ```
 
-this will create test.pdf.csv output file
+Make sure Tesseract is installed locally and accessible via system path.
 
-### Algorithm
+---
 
+## 🧪 Debugging & Tuning
 
-## 1. Extract image from each pdf page
-   ![original](images/original.jpg)
-
-## 2. Threshold + blur + bitwise not image:
-   ![thresholded](images/thresholded.jpg)
-
-## 3. find largest contour with largest area (hopefully our table), fix perspective using four point transform
-   ![extracted](images/extracted.jpg)
-
-## 4. find rows and columns, using morphological operations with custom kernels
-   ![horizontal_vertical_contours](images/horizontal_vertical_contours.jpg)
-
-## 5. use tesseract ocr, for text extraction from each cell
-
-## 6. throw all the extracted data into one large CSV, while keeping the original table structure
-   ![result](images/result.jpg)
-   
-## Notes
-   The performance is mostly affected by the OCR package, both speed and accuracy, feel free to play with tesseract flags  
-
-## Author
-  *Vitali Mogilevsky*
-  
-## License
-   wtfpl - see the [LICENSE](LICENSE) file for details
-
-    
+Set `DEBUG = True` inside `pdf_to_csv_cv.py` to visualize detected table areas and diagnose misaligned contours.

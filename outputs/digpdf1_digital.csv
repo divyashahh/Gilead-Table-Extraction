@@ -1,0 +1,192 @@
+10. Xi Z,Chen W,Guo X,He W,Ding Y,Hong B,Zhang M,Wang
+J,Jin S,Zhou E,et al (2023) The rise and potential of large lan-
+guage model based agents: a survey,arXiv preprint arXiv: 2309.
+07864
+11. Zhao WX,Zhou K,Li J,Tang T,Wang X,Hou Y,Min Y,Zhang
+B,Zhang J,Dong Z,et al (2023) A survey of large language
+models,arXiv preprint arXiv: 2303. 18223
+15. Tarcar AK,Tiwari A,Dhaimodker VN,Rebelo P,Desai R,Rao D
+(2019) Healthcare NER models using language model pretrain-
+ing,arXiv preprint arXiv: 1910. 11241
+16. Wu S,Irsoy O,Lu S,Dabravolski V,Dredze M,Gehrmann S
+Kambadur P,Rosenberg D,Mann G (2023) BloombergGPT: a
+large language model for finance,arXiv preprint arXiv: 2303.
+17564
+22. Huang H,Zheng O,Wang D,Yin J,Wang Z,Ding S,Yin H,Xu
+C,Yang R,Zheng Q et al (2023) ChatGPT for shaping the future
+of dentistry: the potential of multi-modal large language model.
+Int J Oral Sci 15:29
+23. Goel A,Gueta A,Gilon O,Liu C,Erell S,Nguyen LH,Hao X
+Jaber B,Reddy S,Kartha R,et al (2023) LLMs accelerate anno-
+tation for medical information extraction. In: Machine learning
+for health,PMLR,pp 82–100
+26. Clusmann J,Kolbinger FR,Muti HS,Carrero ZI,Eckardt J-N
+Laleh NG,Löffler CML,Schwarzkopf S-C,Unger M,Veldhuizen
+GP et al (2023) The future landscape of large language models
+in medicine. Commun Med 3:141
+28. Singhal K,Azizi S,Tu T,Mahdavi SS,Wei J,Chung HW,Scales
+N,Tanwani A,Cole-Lewis H,Pfohl S et al (2023) Large lan-
+guage models encode clinical knowledge. Nature 620:172–180
+30. Zhou H,Gu B,Zou X,Li Y,Chen SS,Zhou P,Liu J,Hua Y
+Mao C,Wu X,et al (2023) A survey of large language models
+in medicine: progress,application,and challenge,arXiv preprint
+arXiv: 2311. 05112
+32. Hu Z,Yang Z,Liang X,Salakhutdinov R,Xing EP (2017)
+Toward controlled generation of text. In: International confer-
+ence on machine learning,PMLR,pp 1587–1596
+34. Kim S,Lee S-G,Song J,Kim J,Yoon S (2019) FloWaveNet: a
+generative flow for raw audio. In: International conference on
+machine learning,PMLR,pp 3370–3378
+36. Han X,Zhang Z,Ding N,Gu Y,Liu X,Huo Y,Qiu J,Yao Y
+Zhang A,Zhang L et al (2021) Pre-trained models: past,present
+and future. AI Open 2:225–250
+40. Wu J,Gan W,Chen Z,Wan S,Yu PS (2023) Multimodal large
+language models: a survey. In: IEEE international conference on
+big data,IEEE,pp 2247–2256
+49. Philipp G,Song D,Carbonell JG (2017) The exploding gradi-
+ent problem demystified-definition,prevalence,impact,origin
+tradeoffs,and solutions,arXiv preprint arXiv: 1712. 05577
+61. Wolf T,Debut L,Sanh V,Chaumond J,Delangue C,Moi A
+Cistac P,Rault T,Louf R,Funtowicz M,et al (2020) Transform-
+ers: state-of-the-art natural language processing. In: The con-
+ference on empirical methods in natural language processing:
+system demonstrations,ACL,pp 38–45
+78. Akinci D’Antonoli T,Stanzione A,Bluethgen C,Vernuccio F
+Ugga L,Klontzas ME,Cuocolo R,Cannella R,Koçak B (2023)
+Large language models in radiology: fundamentals,applications
+ethical considerations,risks,and future directions,Diagn Inter-
+vent Radiol,Epub–ahead
+81. Lee J,Yoon W,Kim S,Kim D,Kim S,So CH,Kang J (2020)
+BioBERT: a pre-trained biomedical language representation
+model for biomedical text mining. Bioinformatics 36:1234–1240
+82. Luo R,Sun L,Xia Y,Qin T,Zhang S,Poon H,Liu T-Y (2022)
+BioGPT: generative pre-trained transformer for biomedical text
+generation and mining. Brief Bioinf 23:bbac409
+83. Jeblick K,Schachtner B,Dexl J,Mittermeier A,Stüber AT,Topa-
+lis J,Weber T,Wesp P,Sabel BO,Ricke J et al (2023) ChatGPT
+makes medicine easy to swallow: an exploratory case study on
+simplified radiology reports. Eur Radiol 33:1–9
+86. Kraljevic Z,Shek A,Bean D,Bendayan R,Teo J,Dobson R
+(2021) MedGPT: medical concept prediction from clinical nar-
+ratives,arXiv preprint arXiv: 2107. 03134
+87. Shi X,Xu J,Ding J,Pang J,Liu S,Luo S,Peng X,Lu L,Yang
+H,Hu M,et al (2023) LLM-Mini-Cex: Automatic evaluation of
+large language model for diagnostic conversation,arXiv preprint
+arXiv: 2308. 07635
+88. Zhou J,He X,Sun L,Xu J,Chen X,Chu Y,Zhou L,Liao X
+Zhang B,Gao X (2023) SkinGPT-4: an interactive dermatology
+diagnostic system with visual large language model. MedRXiv:
+2023–2006
+89. Xiong H,Wang S,Zhu Y,Zhao Z,Liu Y,Huang L,Wang Q
+Shen D (2023) DoctorGLM: Fine-tuning your chinese doctor is
+not a herculean task,arXiv preprint arXiv: 2304. 01097
+90. Wang H,Liu C,Xi N,Qiang Z,Zhao S,Qin B,Liu T (2023a)
+Huatuo: tuning llama model with chinese medical knowledge
+arXiv preprint arXiv: 2304. 06975
+92. Lin X,Xu C,Xiong Z,Zhang X,Ni N,Ni B,Chang J,Pan R
+Wang Z,Yu F et al (2023) PanGu drug model: learn a molecule
+like a human. Sci China Life Sci 66:879–882
+93. Fang X,Wang F,Liu L,He J,Lin D,Xiang Y,Zhu K,Zhang X
+Wu H,Li H et al (2023) A method for multiple-sequence-align-
+ment-free protein structure prediction using a protein language
+model. Nature Mach Intell 5:1087–1096
+94. Mao J,Wang J,Zeb A,Cho K-H,Jin H,Kim J,Lee O,Wang Y
+No KT (2023) Transformer-based molecular generative model
+for antiviral drug design. J Chem Inf Model 64(7):2733–2745
+95. Luo Y,Liu XY,Yang K,Huang K,Hong M,Zhang J,Wu Y
+Nie Z (2023) Towards unified AI drug discovery with multiple
+knowledge modalities,arXiv preprint arXiv: 2305. 01523
+97. Lei W,Wei X,Zhang X,Li K,Zhang S (2023),MedLSAM:
+localize and segment anything model for 3d medical images
+arXiv preprint arXiv: 2306. 14752
+98. Li Z,Li Y,Li Q,Wang P,Guo D,Lu L,Jin D,Zhang Y,Hong Q
+(2023) Lvit: language meets vision transformer in medical image
+segmentation. IEEE Trans Med Imaging 43:96–107
+102. Bao Z,Chen W,Xiao S,Ren K,Wu J,Zhong C,Peng J,Huang
+X,Wei Z (2023) DISC-MedLLM: Bridging general large lan-
+guage models and real-world medical consultation,arXiv pre-
+print arXiv: 2308. 14346
+103. Chen Y,Wang Z,Xing X,Xu Z,Fang K,Wang J,Li S,Wu J
+Liu Q,Xu X,et al (2023) BianQue: balancing the questioning
+and suggestion ability of health LLMs with multi-turn health
+conversations polished by ChatGPT,arXiv preprint arXiv: 2310.
+15896
+105. Wu C,Lin W,Zhang X,Zhang Y,Xie W,Wang Y (2024) PMC-
+LLaMA: toward building open-source language models for medi-
+cine. J Am Med Inf Assoc,ocae045
+106. Liu F,Zhu T,Wu X,Yang B,You C,Wang C,Lu L,Liu Z
+Zheng Y,Sun X et al (2023) A medical multimodal large lan-
+guage model for future pandemics. NPJ Digit Med 6:226
+109. Yang X,Chen A,PourNejatian N,Shin HC,Smith KE,Parisien
+C,Compas C,Martin C,Costa AB,Flores MG et al (2022) A
+large language model for electronic health records. NPJ Digit
+Med 5:194
+110. Zeng A,Liu X,Du Z,Wang Z,Lai H,Ding M,Yang Z,Xu Y
+Zheng W,Xia X,et al (2022) GLM-130B: an open bilingual
+pre-trained model,arXiv preprint arXiv: 2210. 02414
+111. Yang Y,Yin X,Yang H,Fei X,Peng H,Zhou K,Lai K,Shen J
+(2021) KGSynNet: a novel entity synonyms discovery framework
+with knowledge graph. Database systems for advanced applica-
+tions. Springer,Berlin,pp 174–190
+112. Zhao X,Wu J,Peng H,Beheshti A,Monaghan JJ,McAlpine
+D,Hernandez-Perez H,Dras M,Dai Q,Li Y et al (2022) Deep
+reinforcement learning guided graph neural networks for brain
+network analysis. Neural Netw 154:56–67
+114. Zhao X,Liu H,Dai Q,Peng H,Bai X,Peng H (2023) Multi-
+omics sampling-based graph transformer for synthetic lethality
+prediction,In: IEEE international conference on bioinformatics
+and biomedicine,IEEE,pp 785–792
+116. Yuan J,Bao P,Chen Z,Yuan M,Zhao J,Pan J,Xie Y,Cao Y
+Wang Y,Wang Z,et al (2023) Advanced prompting as a cata-
+lyst: empowering large language models in the management of
+gastrointestinal cancers,Innov 521
+117. Benary M,Wang XD,Schmidt M,Soll D,Hilfenhaus G,Nassir
+M,Sigler C,Knödler M,Keller U,Beule D et al (2023) Leverag-
+ing large language models for decision support in personalized
+oncology. JAMA Netw Open 6:e2343689–e2343689
+119. Li T,Shetty S,Kamath A,Jaiswal A,Jiang X,Ding Y,Kim Y
+(2024) CancerGPT for few shot drug pair synergy prediction
+using large pretrained language models. npj Digit Med 7:40
+122. Yang Z,Yao Z,Tasmin M,Vashisht P,Jang WS,Ouyang F,Wang
+B,Berlowitz D,Yu H (2023) Performance of multimodal gpt-4v
+on usmle with image: potential for imaging diagnostic support
+with explanations,medRxiv 2023–10
+124. Zeng G,Yang W,Ju Z,Yang Y,Wang S,Zhang R,Zhou M,Zeng
+J,Dong X,Zhang R et al (2020) Meddialog: large-scale medical
+dialogue datasets. In: The conference on empirical methods in
+natural language processing. pp 9241–9250
+126. Ye J,Chen X,Xu N,Zu C,Shao Z,Liu S,Cui Y,Zhou Z,Gong
+C,Shen Y,et al (2023) A comprehensive capability analysis of
+GPT-3 and GPT-3.5 series models,arXiv preprint arXiv: 2303.
+10420
+127. Achiam J,Adler S,Agarwal S,Ahmad L,Akkaya I,Aleman FL
+Almeida D,Altenschmidt J,Altman S,Anadkat S,et al (2023)
+GPT-4 technical report,arXiv preprint arXiv: 2303. 08774
+128. Dodge J,Ilharco G,Schwartz R,Farhadi A,Hajishirzi H,Smith
+N (2020) Fine-tuning pretrained language models: weight ini-
+tializations,data orders,and early stopping,arXiv preprint arXiv:
+2002. 06305
+129. Osborne JD,Flatow J,Holko M,Lin SM,Kibbe WA,Zhu L
+Danila MI,Feng G,Chisholm RL (2009) Annotating the human
+genome with disease ontology. BMC Genom 10:S6
+132. Preum SM,Munir S,Ma M,Yasar MS,Stone DJ,Williams
+R,Alemzadeh H,Stankovic JA (2021) A review of cognitive
+assistants for healthcare: trends,prospects,and future direc-
+tions. ACM Comput Surv 53:1–37
+138. Li Y,Liu C,Zou H,Che L,Sun P,Yan J,Liu W,Xu Z,Yang W
+Dong L,et al (2023) Integrated wearable smart sensor system
+for real-time multi-parameter respiration health monitoring.
+Cell Rep Phys Sci 4
+140. Dou Y,Huang Y,Zhao X,Zou H,Shang J,Lu Y,Yang X
+Xiao J,Peng S (2024) ShennongMGS: An LLM-based chinese
+medication guidance system. ACM Trans Manage Inf Syst
+144. Chen K,Du Y,You T,Islam M,Guo Z,Jin Y,Chen G,Heng
+P-A (2024) LLM-assisted multi-teacher continual learning for
+visual question answering in robotic surgery,arXiv preprint
+arXiv: 2402. 16664
+147. Vu MD,Wang H,Li Z,Chen J,Zhao S,Xing Z,Chen C (2024)
+GPTVoiceTasker: LLM-powered virtual assistant for smart-
+phone,arXiv preprint arXiv: 2401. 14268
+148. Chen Z,Gan W,Sun J,Wu J,Yu PS (2024) Open metaverse:
+issues,evolution,and future. In: Companion proceedings of
+the ACM web conference,pp 1351–1360
