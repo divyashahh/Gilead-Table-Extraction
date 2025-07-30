@@ -35,7 +35,7 @@ This project automates table extraction from both **scanned image-based PDFs** a
 Make sure your input PDF (e.g. `test.pdf`) is inside the `inputs/` folder. Then run:
 
 ```bash
-python hybrid_runner.py -p inputs/test.pdf -o outputs
+python hybrid_runner.py -p inputs/'yourpdf'.pdf -o outputs
 
 ```
 
